@@ -1,12 +1,9 @@
 ===================================================================
-raj@acloudfan.com
+syedabari227@gmail.com
 
-This repository is part of a course put together by Rajeev Sakhuja
+This repository is part of a course put together by Syed Ariful Bari
 
 Course title: Amazon Aurora PostgreSQL from A to Z
-
-Check out the course preview: 
-https://courses.pragmaticpaths.com/p/aurora-postgresql
 
 ===================================================================
 
