@@ -25,7 +25,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-a
 * Launch Visual Studio Code on your machine
 * Open a terminal in visual studio code and clone Git repo
 
-clone https://github.com/acloudfan/Amazon-RDS-Aurora-Postgres-v1.git
+clone https://github.com/syedabari227-png/Amazon-RDS-Aurora-Postgres-v1.git
 
 4. Open the project root in Visual Studio Code
 
